@@ -1,0 +1,42 @@
+img.imageMar {
+    border-right: 3px solid black;
+    height: 300px;
+}
+
+.steven {
+    font-size: 72px;
+    font-family: Montserrat;
+    font-weight: bold;
+}
+
+.smm {
+    font-size: 40px;
+    color: #c78b3e;
+    font-weight: 400;
+}
+
+.card.design-card {
+    border: none;
+}
+
+.card-body.newDesign {
+    padding: unset;
+}
+
+.desTitle {
+    color: black;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+h2.smm {
+    margin-top: -10px;
+}
+
+.newDesign a {
+    text-decoration: none;
+}
+
+.container.bodyDes {
+    margin-top: 140px;
+}
