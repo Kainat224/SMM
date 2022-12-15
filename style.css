@@ -40,3 +40,30 @@ h2.smm {
 .container.bodyDes {
     margin-top: 140px;
 }
+
+@media only screen and (max-width: 600px) {
+    * {
+        text-align: center;
+    }
+
+    .container.bodyDes {
+        margin-top: 20px;
+    }
+
+    img.imageMar {
+        border-right: 0px;
+    }
+
+    .steven {
+        font-size: 42px;
+    }
+
+    .smm {
+        font-size: 28px;
+    }
+
+    h2.smm {
+        margin-top: 0px;
+    }
+
+}
